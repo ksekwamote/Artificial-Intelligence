@@ -1,0 +1,19 @@
+
+The heuristic evealuaton function used in the code is hn = fn + gn
+where fn is broken down into different permutations of the puzzel plus 
+the number of misplaced tiles multiplied by a 100
+
+The A star algorithm is much more faster especially with the first easy puzzle
+A star algorithms reaches the goal with ony 13 moves
+while the Breadth First reaches the goal with 61 Moves 
+the Depth First is the slowest reaching the goal with
+576 Moves
+
+Medimum
+BREADTH FIRST - 541 Moves
+DEPTH FIRST  -33147 Moves
+A STAR - INDEFINITE
+
+Hard
+BREADTH FIRST-
+
